@@ -78,9 +78,9 @@ npm run dev
 
 ## 👨‍💻 Developed By
 
-**Abdulrahman Hany** 🌟
+**Abdelrahman Hany** 🌟
 
-[LinkedIn](https://www.linkedin.com/) | [Twitter](https://twitter.com/) | [Personal Website](https://yourwebsite.com)
+[LinkedIn](https://www.linkedin.com/in/abdelrahman-hani-901442261/) | [Twitter](https://twitter.com/](https://x.com/3bdelrhman_hani)) | [Personal Website](https://abdulrahman-hany.github.io/my-portfolio/)
 
 ---
 
