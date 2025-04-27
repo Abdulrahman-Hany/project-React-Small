@@ -59,7 +59,7 @@ git clone https://github.com/your-username/project-React-Small.git
 2. Navigate to the project directory:
 
 ```bash
-cd project-React-Small/my-react-app
+cd project-React-Small/Restaurant-Landing-Page
 ```
 
 3. Install dependencies:
